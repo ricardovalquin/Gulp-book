@@ -1,0 +1,26 @@
+{
+  "name": "gulp_book",
+  "version": "1.0.0",
+  "description": "practice excercices to learn how to configure gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardovalquin/Gulp-book.git"
+  },
+  "keywords": [
+    "learning",
+    "gulp"
+  ],
+  "author": "ricardovalquin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardovalquin/Gulp-book/issues"
+  },
+  "homepage": "https://github.com/ricardovalquin/Gulp-book#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
